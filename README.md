@@ -6,38 +6,38 @@ Overview of the Project
 
 The system will keep track of a small movie list. He will be able to add a new movie, view the stored movies, update any existing entry, and delete the ones he no longer needs. It targets students in learning basic Python, particularly lists, dictionaries, and menu-driven programs.
 
-Key Features
+#Key Features
 
-Add new movie details
+--Add new movie details
 
-Display list of all movies
+--Display list of all movies
 
-Update selected movie information
+--Update selected movie information
 
-Delete a movie from the collection
+--Delete a movie from the collection
 
-Simple menu for easy navigation
+--Simple menu for easy navigation
 
-Beginner-friendly code; no need of any libraries.
+--Beginner-friendly code; no need of any libraries.
 
-Data Stored
+--Data Stored
 
-Each film entry includes:
+#Each film entry includes:
 
-Name
+--Name
 
-Release Year
+--Release Year
 
-Rating
+--Rating
 
-The data is stored in a Python list of dictionaries.
+--The data is stored in a Python list of dictionaries.
 
-Requirements
+#Requirements
 
-Python 3
+--Python 3
 
-How to Run
+--How to Run
 
-Use the terminal to run:
+#Use the terminal to run:
 
 python movie.py
