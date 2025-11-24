@@ -41,3 +41,12 @@ The system will keep track of a small movie list. He will be able to add a new m
 #Use the terminal to run:
 
 python movie.py
+ input code --
+
+
+ . 
+ <img width="624" height="1026" alt="image" src="https://github.com/user-attachments/assets/fcb8544d-5c0d-4eb0-ba87-814237333b67" />
+
+ <img width="524" height="975" alt="image" src="https://github.com/user-attachments/assets/c740ed3a-2b3d-4d36-b911-5629d33df2c0" />
+
+
