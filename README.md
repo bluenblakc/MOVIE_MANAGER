@@ -49,4 +49,9 @@ python movie.py
 
  <img width="524" height="975" alt="image" src="https://github.com/user-attachments/assets/c740ed3a-2b3d-4d36-b911-5629d33df2c0" />
 
+ output--
+
+ .
+ <img width="337" height="1010" alt="image" src="https://github.com/user-attachments/assets/cb47a22a-d47b-4d56-99da-8a3022c0fadc" />
+
 
