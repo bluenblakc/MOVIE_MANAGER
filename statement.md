@@ -1,9 +1,38 @@
-Movie Collection CRUD - Project Statement
+# Movie Collection Program -- Statement
 
-This is a simple Python-based Movie Collection Management System.
+## Overview
 
-This program is designed to let a user add, view, update, and
-Delete movie information using a menu-driven console application.
+A simple CRUD-based Python program that allows users to add, view,
+update, and delete movie records.
 
-The Python program performs the simple CRUD operations. It makes use of
-lists and dictionaries to process data. A user can create new movie records, Check all saved movies, modify the info for an existing movie, or remove Take any movie from the list whenever needed. Its aim is to be a beginner-level program that helps students understand how data can be managed without the use of any external database or other libraries. The code reads easily and is suitable for students learning Python fundamentals.
+## Features Implemented
+
+-   Add new movies with title, year, and rating.
+-   View all stored movies.
+-   Update selected movie information.
+-   Delete movies by index.
+-   Menu-driven interactive console interface.
+
+## Difficulties Faced While Solving
+
+1.  Handling invalid numeric input from users.
+2.  Managing empty list cases for update/delete operations.
+3.  Ensuring updates preserve previous values when fields are left
+    blank.
+4.  Keeping the main menu loop clear and understandable.
+
+## Future Enhancements
+
+-   Save and load movies using a JSON file.
+-   Add search functionality.
+-   Validate year and rating inputs.
+-   Add sorting options (by rating, year, alphabetical order).
+-   Create a GUI using Tkinter or PyQt.
+-   Convert the project into an OOP-based structure.
+-   Add colorized terminal output.
+-   Add genre and review fields.
+
+## Conclusion
+
+The program provides a foundational CRUD system and can be extended into
+a more advanced movie management tool.
